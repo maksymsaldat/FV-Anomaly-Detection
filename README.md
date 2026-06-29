@@ -59,14 +59,15 @@ project/
 │
 ├── notebooks/
 │   ├── 01_EDA.ipynb
-│   ├── 02_Preprocessing.ipynb
+│   ├── 02_Preprocessing_Plant1.ipynb
+│   ├── 02_Preprocessing_Plant2.ipynb
 │   ├── 03_Prediction_Model.ipynb
 │   ├── 04_Anomaly_Detection.ipynb
 │   └── 05_Anomaly_Classification.ipynb
 │
 ├── results/
-│
-├── requirements.txt
+│   ├── anomaly_events.csv
+│   └── anomaly_summary.csv
 │
 └── README.md
 ````
