@@ -46,9 +46,13 @@ The complete workflow includes:
 project/
 │
 ├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── validation/
+│   ├── Plant_1_Generation_Data.csv
+│   ├── Plant_1_Weather_Sensor_Data.csv
+│   ├── Plant_2_Generation_Data.csv
+│   ├── Plant_2_Weather_Sensor_Data.csv
+│   ├── plant1_preprocessed.csv
+│   ├── plant2_preprocessed.csv
+│   └── validation_dataset.csv
 │
 ├── models/
 │   └── random_forest_model.pkl
@@ -66,6 +70,7 @@ project/
 │
 └── README.md
 ````
+
 
 ---
 
