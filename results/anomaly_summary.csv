@@ -1,0 +1,4 @@
+LEVEL,Number of events,Average duration (min),Average error (%),Maximum error (%)
+LOW,15.0,33.0,9.64,13.75
+MEDIUM,1.0,30.0,17.28,18.26
+HIGH,-,-,-,-
