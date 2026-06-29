@@ -42,6 +42,7 @@ The complete workflow includes:
 
 # Project Structure
 
+```text
 project/
 │
 ├── data/
@@ -64,6 +65,7 @@ project/
 ├── requirements.txt
 │
 └── README.md
+````
 
 ---
 
